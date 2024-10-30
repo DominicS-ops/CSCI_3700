@@ -39,7 +39,7 @@ For questions or further information, please contact [Dominic Segobiano](segobia
 
 ## 💬 Acknowledgments
 
-- [Rui] for guidance and support throughout the course.
+- Rui Wu for guidance and support throughout the course.
 - Fellow classmates for collaboration and feedback.
 
 ---
